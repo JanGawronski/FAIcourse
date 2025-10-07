@@ -18,7 +18,7 @@ Instalacja uv: patrz [dokumentacja](https://docs.astral.sh/uv/getting-started/in
 
 Stworzenie środowiska wirtualnego:
 ```shell
-uv venv
+uv venv --python python3.11
 ```
 
 Aktywacja środowiska wirtualnego: powyższe wypisze komendę adekwatną dla używanego OS.
