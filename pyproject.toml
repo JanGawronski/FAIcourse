@@ -22,6 +22,17 @@ dependencies = [
     "optuna",
     "torchvision",
     "opencv-python",
+    "transformers",
+    "protobuf",
+    "sacremoses",
+    "datasets",
+    "evaluate",
+    "accelerate",
+    "tensorboard",
+    "tiktoken",
+    "sentencepiece",
+    "peft",
+    "sentence-transformers",
 ]
 
 [tool.uv]
