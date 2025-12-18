@@ -33,6 +33,7 @@ dependencies = [
     "sentencepiece",
     "peft",
     "sentence-transformers",
+    "numba",
 ]
 
 [tool.uv]
